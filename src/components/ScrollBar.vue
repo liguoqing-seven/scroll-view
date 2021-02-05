@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import { defineComponent, onMounted, reactive, ref, watch } from 'vue';
+import { defineComponent, onMounted, ref, watch } from 'vue';
 import { useOffsetTop, useOffsetLeft } from '../hooks/usePosition.js';
 export default defineComponent({
   name: 'ScrollBar',
