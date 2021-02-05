@@ -1,6 +1,19 @@
 {
   "name": "@seven/scroll-view",
   "version": "1.0.0",
+  "description": "One Vue3 components named scroll-view",
   "main": "src/index.js",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liguoqing-seven/scroll-view.git"
+  },
+  "keywords": [
+    "scroll-view"
+  ],
+  "author": "seven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liguoqing-seven/scroll-view/issues"
+  },
+  "homepage": "https://github.com/liguoqing-seven/scroll-view#readme"
 }
