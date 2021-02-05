@@ -8,7 +8,8 @@
     "url": "git+https://github.com/liguoqing-seven/scroll-view.git"
   },
   "keywords": [
-    "scroll-view"
+    "scroll-view",
+    "Vue3 Components"
   ],
   "author": "seven",
   "license": "ISC",
