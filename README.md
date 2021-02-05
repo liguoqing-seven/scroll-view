@@ -4,12 +4,12 @@ A scroll container in which you can customize the scroll bar.
 ## properties
 | 属性名 | 类型 | 默认值 | 说明 |
 | --- | :---: | :---: | --- |
-| width | Number/String | scroll-view 容器的宽度，横向滚动时必需 |
-| height | Number/String | scroll-view 容器的高度，纵向滚动时必需 |
+| width | Number/String | 400px | scroll-view 容器的宽度，横向滚动时必需 |
+| height | Number/String | 200px | scroll-view 容器的高度，纵向滚动时必需 |
 | scroll-x | Boolean | false | 允许横向滚动 |
 | scroll-y | Boolean | false | 允许纵向滚动 |
-| scroll-top | Number/String |  | 设置竖向滚动条的位置 |
-| scroll-left | Number/String |  | 设置横向滚动条的位置 |
+| scroll-top | Number/String | 0 | 设置竖向滚动条的位置 |
+| scroll-left | Number/String | 0 | 设置横向滚动条的位置 |
 | scrollbar-class | String |  | 滚动条的类名 |
 | active | Boolean | false | 只有当前容器处于活跃状态时才显示滚动条 |
 
