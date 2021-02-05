@@ -11,10 +11,11 @@
     "scroll-view",
     "Vue3 Components"
   ],
-  "author": "seven",
+  "author": "super-seven",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/liguoqing-seven/scroll-view/issues"
   },
-  "homepage": "https://github.com/liguoqing-seven/scroll-view#readme"
+  "homepage": "https://github.com/liguoqing-seven/scroll-view#readme",
+  "dependencies": {}
 }
