@@ -1,6 +1,6 @@
 {
   "name": "vue3-scroll-view",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Vue3 component named scroll-view",
   "main": "src/index.js",
   "repository": {
