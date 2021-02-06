@@ -1,6 +1,8 @@
 ## Scroll-View component
 A scroll container in which you can customize the scroll bar.
 
+If you want to know the details, you can go to ![https://liguoqing-seven.github.io/seven/Plugins/ScrollView.html](https://liguoqing-seven.github.io/seven/Plugins/ScrollView.html).
+
 ## properties
 | 属性名 | 类型 | 默认值 | 说明 |
 | --- | :---: | :---: | --- |
