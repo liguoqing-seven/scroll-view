@@ -95,6 +95,7 @@ export default defineComponent({
 
 <style>
 .seven--scroll-bar-container {
+  transition: .3s;
   flex-shrink: 0;
 }
 .seven--scroll-bar-y {
